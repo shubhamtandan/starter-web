@@ -1,5 +1,5 @@
 
-JUST TO CHECK THE MODIFICATIOn
+JUST TO CHECK THE MODIFICATIon of the file
 
 
 Shis repository is for showing how Git and GitHub work
