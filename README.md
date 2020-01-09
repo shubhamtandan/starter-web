@@ -1,7 +1,9 @@
 
 JUST TO CHECK THE MODIFICATIOn
-his repository is for showing how Git and GitHub work
-Bold
+
+
+Shis repository is for showing how Git and GitHub work
+BoldND ITALIC IS THE INGREDIENT
 
 
 ## Purpose
