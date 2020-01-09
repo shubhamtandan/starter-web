@@ -1,6 +1,8 @@
 
 JUST TO CHECK THE MODIFICATIOn
-This repository is for showing how Git and GitHub work
+his repository is for showing how Git and GitHub work
+Bold
+
 
 ## Purpose
 DONE
